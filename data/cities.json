@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "d0c9",
+      "cityName": "Alexandria",
+      "country": "",
+      "emoji": "",
+      "date": "2024-11-22T12:37:01.262Z",
+      "notes": "Hello",
+      "position": {
+        "lat": "31.148872563450976",
+        "lng": "29.992675781250004"
+      }
+    },
+    {
+      "id": "483c",
+      "cityName": "fd",
+      "country": "",
+      "emoji": "",
+      "date": "2024-11-22T12:37:19.277Z",
+      "notes": "",
+      "position": {
+        "lat": "30.337020921015654",
+        "lng": "28.388671875000004"
+      }
+    },
+    {
+      "id": "8afb",
+      "cityName": "asdasd",
+      "country": "",
+      "emoji": "",
+      "date": "2024-11-22T12:38:56.104Z",
+      "notes": "asdasd",
+      "position": {
+        "lat": "41.674203032530265",
+        "lng": "-1.0766601562500002"
+      }
+    }
+  ]
+}
